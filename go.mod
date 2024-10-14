@@ -6,14 +6,14 @@ require (
 	github.com/KyleBanks/depth v1.2.1
 	github.com/go-openapi/spec v0.21.0
 	github.com/stretchr/testify v1.9.0
-	github.com/urfave/cli/v2 v2.27.4
+	github.com/urfave/cli/v2 v2.27.5
 	golang.org/x/text v0.17.0
 	golang.org/x/tools v0.24.0
 	sigs.k8s.io/yaml v1.4.0
 )
 
 require (
-	github.com/cpuguy83/go-md2man/v2 v2.0.4 // indirect
+	github.com/cpuguy83/go-md2man/v2 v2.0.5 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/go-openapi/jsonpointer v0.21.0 // indirect
 	github.com/go-openapi/jsonreference v0.21.0 // indirect
